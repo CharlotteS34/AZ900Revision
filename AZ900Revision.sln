@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AZ900Revision.Web", "AZ900Revision.Web\AZ900Revision.Web.csproj", "{090372F6-1E91-4768-9EB2-CF5043557D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AZ9000Revision.Database", "AZ9000Revision.Database\AZ9000Revision.Database.csproj", "{BB8CE6CA-4C29-4A4F-AC5A-EC32D43FB6A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{090372F6-1E91-4768-9EB2-CF5043557D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090372F6-1E91-4768-9EB2-CF5043557D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090372F6-1E91-4768-9EB2-CF5043557D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090372F6-1E91-4768-9EB2-CF5043557D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8CE6CA-4C29-4A4F-AC5A-EC32D43FB6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8CE6CA-4C29-4A4F-AC5A-EC32D43FB6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8CE6CA-4C29-4A4F-AC5A-EC32D43FB6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8CE6CA-4C29-4A4F-AC5A-EC32D43FB6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE915B1D-94F4-4A1B-8912-53A1E32D894F}
+	EndGlobalSection
+EndGlobal
